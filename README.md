@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeshig01" alt="zeshig01" /></a> </p>
 
-- 🔭 I’m currently working on [Admin Panal](https://admin-panal-nine.vercel.app/)
+- 🔭 I’m currently working on [Admin Panal](https://admin-panal-nine.vercel.app/) 
+ 
+- 💬 Ask me about **MERN Stack , Wordpress** || See MORE on [Portfolio](https://zeshiportfolio.vercel.app/)
 
-- 💬 Ask me about **MERN Stack , Wordpress**
-
-- 📫 How to reach me **zeshig01@gmail.com or 0317-4652685**
+- 📫 How to reach me **zeshig01@gmail.com or 0317-4652685** 
 
 - ⚡ Fun fact **Adjuster Personality**
 
