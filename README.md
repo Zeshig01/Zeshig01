@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeshig01" alt="zeshig01" /></a> </p>
 
-- 🔭 I’m currently working on [Admin Panal](https://admin-panal-nine.vercel.app/) 
+- 🔭 I’m currently working on [Cryptoverse-ai](https://cryptoverse-ai.com/) 
  
 - 💬 Ask me about **MERN Stack , Wordpress** || See MORE on [Portfolio](https://zeshiportfolio.vercel.app/)
 
