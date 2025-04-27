@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Cryptoverse-ai](https://cryptoverse-ai.com/) 
  
-- 💬 Ask me about **MERN Stack , Wordpress** || See MORE on [Portfolio](https://zeshiportfolio.vercel.app/)
+- 💬 Ask me about **MERN Stack , Wordpress** || See MORE on [Portfolio](https://zeshi-the-brand.vercel.app/)
 
 - 📫 How to reach me **zeshig01@gmail.com or 0317-4652685** 
 
